@@ -6,9 +6,8 @@ The repo includes the original dataset, three SQL scripts (create table, load da
 
 <!-- right under the overview -->
 <p align="center">
-  <img src=""C:\Users\felip\OneDrive\Área de Trabalho\code and stuff\projects\coffee sales\BI dashboard\sales_dashboard_preview.png"" alt="Coffee Sales — Power BI overview" width="800">
+  <img src="dashboard/sales_dashboard_preview.png" alt="Coffee Sales — Power BI overview" width="800">
 </p>
-
 
 
 ## Repository layout
