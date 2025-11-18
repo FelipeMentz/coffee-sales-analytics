@@ -4,6 +4,12 @@ SQL-first portfolio project analyzing one year of a coffee shop’s transactions
 All metrics are computed in **MySQL** (month, weekday, hour, daypart, and product mix).  
 The repo includes the original dataset, three SQL scripts (create table, load data, analysis), CSV outputs, and a compact Power BI visualization.
 
+<!-- right under the overview -->
+<p align="center">
+  <img src=""C:\Users\felip\OneDrive\Área de Trabalho\code and stuff\projects\coffee sales\BI dashboard\sales_dashboard_preview.png"" alt="Coffee Sales — Power BI overview" width="800">
+</p>
+
+
 
 ## Repository layout
 
